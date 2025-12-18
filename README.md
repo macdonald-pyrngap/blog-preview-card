@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/macdonald-pyrngap/blog-preview-card
-- Live Site URL: https://macdonald-pyrngap.github.io/blog-preview-card/
+- [Solution URL](https://github.com/macdonald-pyrngap/blog-preview-card)
+- [Live Site URL](https://macdonald-pyrngap.github.io/blog-preview-card/)
 
 ## My process
 
@@ -50,6 +50,6 @@ Users should be able to:
 ## Author
 
 - Name: Macdonald Pyrngap
-- Frontend Mentor: [Click here](https://www.frontendmentor.io/profile/macdonald-pyrngap)
-- GitHub: https://github.com/macdonald-pyrngap
+- [FrontEndMentor](https://www.frontendmentor.io/profile/macdonald-pyrngap)
+- [Github Profile](https://github.com/macdonald-pyrngap)
 
