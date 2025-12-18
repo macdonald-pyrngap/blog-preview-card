@@ -6,7 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](assets/Screenshot.png)
+  - [Screenshot](Screenshot.png)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
