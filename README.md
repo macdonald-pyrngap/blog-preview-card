@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](Screenshot.png)
 
 ### Links
 
@@ -50,6 +50,6 @@ Users should be able to:
 ## Author
 
 - Name: Macdonald Pyrngap
-- Frontend Mentor: https://www.frontendmentor.io/profile/your-username
-- GitHub: https://github.com/your-username
+- Frontend Mentor: https://www.frontendmentor.io/profile/macdonald-pyrngap
+- GitHub: https://github.com/macdonald-pyrngap
 
