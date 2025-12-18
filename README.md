@@ -50,6 +50,6 @@ Users should be able to:
 ## Author
 
 - Name: Macdonald Pyrngap
-- Frontend Mentor: https://www.frontendmentor.io/profile/macdonald-pyrngap
+- Frontend Mentor: [Click here](https://www.frontendmentor.io/profile/macdonald-pyrngap)
 - GitHub: https://github.com/macdonald-pyrngap
 
