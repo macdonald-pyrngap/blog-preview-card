@@ -50,6 +50,6 @@ Users should be able to:
 ## Author
 
 - Name: Macdonald Pyrngap
-- [FrontEndMentor](https://www.frontendmentor.io/profile/macdonald-pyrngap)
+- [FrontEndMentor Profile](https://www.frontendmentor.io/profile/macdonald-pyrngap)
 - [Github Profile](https://github.com/macdonald-pyrngap)
 
