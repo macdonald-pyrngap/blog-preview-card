@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/your-username/blog-preview-card
-- Live Site URL: https://your-username.github.io/blog-preview-card
+- Solution URL: https://github.com/macdonald-pyrngap/blog-preview-card
+- Live Site URL: https://macdonald-pyrngap.github.io/blog-preview-card/
 
 ## My process
 
